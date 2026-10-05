@@ -1,0 +1,27 @@
+{
+  "name": "gewebscrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.63.0",
+    "playwright-core": "^1.63.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukcascaes/gewebscrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lukcascaes/gewebscrapper/issues"
+  },
+  "homepage": "https://github.com/lukcascaes/gewebscrapper#readme"
+}
